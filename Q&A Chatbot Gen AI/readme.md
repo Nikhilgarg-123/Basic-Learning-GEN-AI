@@ -35,8 +35,8 @@ A versatile Generative AI chatbot built with **Streamlit** and **LangChain**. Th
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Nikhilgarg-123/Basic-Learning-GEN-AI.git
+   cd Basic-Learning-GEN-AI/Q&A Chatbot Gen AI
    ```
 
 2. **Create a virtual environment:**
